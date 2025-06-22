@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="id"><Esri><CreaDate>20250623</CreaDate><CreaTime>02303400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20250623" Time="023034">RasterToPolygon WeightedOverlay.tif "D:\TUBES SIP 2\SHP TUBES\KERENTANAN_BANJIR.shp" SIMPLIFY Keterangan SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
